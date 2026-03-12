@@ -1,10 +1,12 @@
-# WEB103 Project 3 - *Name of App Here*
+![Screenshot](/header.png)
 
-Submitted by: **Your name here**
+# WEB103 Project 2 - *Eventify*
 
-About this web app: **App description here**
+Submitted by: Thierry Laguerre
 
-Time spent: **X** hours
+About this web app: Shows Upcoming Events
+
+Time spent: **4** hours
 
 ## Required Features
 
@@ -37,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/yfmTpIc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
@@ -52,7 +54,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright 2026 Thierry Laguerre
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
